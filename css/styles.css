@@ -1,0 +1,31 @@
+img {
+  width:500px;
+  height:auto;
+
+}
+
+body {
+  background-color:skyblue;
+}
+
+.best {
+  color:yellow;
+  font-family:cursive;
+}
+
+.flashy {
+  color:red;
+  text-style:italic;
+}
+
+h1 {
+
+}
+
+h2 {
+  font-family:sans-serif;
+}
+
+p {
+  font-size:22px;
+}
