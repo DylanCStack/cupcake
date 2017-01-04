@@ -7,6 +7,10 @@ body {
   background-color:beige;
 }
 
+.content{
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
 
 .most-recent{
   border:5px black;
